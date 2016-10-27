@@ -13,6 +13,7 @@
 		D97595CF1DBE3D93009458E1 /* FirstApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D97595CD1DBE3D93009458E1 /* FirstApp.xcdatamodeld */; };
 		D97595D11DBE3D93009458E1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D97595D01DBE3D93009458E1 /* Assets.xcassets */; };
 		D97595D41DBE3D93009458E1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D97595D21DBE3D93009458E1 /* LaunchScreen.storyboard */; };
+		D97595DC1DBE45CB009458E1 /* QuestionAnswer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97595DB1DBE45CB009458E1 /* QuestionAnswer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D97595D01DBE3D93009458E1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D97595D31DBE3D93009458E1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D97595D51DBE3D93009458E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D97595DB1DBE45CB009458E1 /* QuestionAnswer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestionAnswer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				D97595C61DBE3D93009458E1 /* AppDelegate.swift */,
 				D97595C81DBE3D93009458E1 /* ViewController.swift */,
 				D97595CA1DBE3D93009458E1 /* Main.storyboard */,
+				D97595DB1DBE45CB009458E1 /* QuestionAnswer.swift */,
 				D97595D01DBE3D93009458E1 /* Assets.xcassets */,
 				D97595D21DBE3D93009458E1 /* LaunchScreen.storyboard */,
 				D97595D51DBE3D93009458E1 /* Info.plist */,
@@ -143,6 +146,7 @@
 				D97595CF1DBE3D93009458E1 /* FirstApp.xcdatamodeld in Sources */,
 				D97595C91DBE3D93009458E1 /* ViewController.swift in Sources */,
 				D97595C71DBE3D93009458E1 /* AppDelegate.swift in Sources */,
+				D97595DC1DBE45CB009458E1 /* QuestionAnswer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

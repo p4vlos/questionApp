@@ -6,4 +6,14 @@
 //  Copyright © 2016 Pavlos Nicolaou. All rights reserved.
 //
 
-import Foundation
+import UIKit
+
+class QuestionAnswer {
+    var question: String
+    var answer: String
+    
+    init(question: String, answer: String) {
+        self.question = question
+        self.answer = answer
+    }
+}
